@@ -1,23 +1,229 @@
 [
   {
-    "pregunta": "En el sistema político chileno existen diversos actores...",
-    "opciones": [
-      "Organizan los procesos electorales a nivel nacional.",
-      "Financian la implementación de las políticas públicas.",
-      "Interactúan con otros organismos de la sociedad civil.",
-      "Gestionan la educación ciudadana en el sistema escolar."
-    ],
-    "respuestaCorrecta": 2
-  },
+        "pregunta": "¿Cuál de los siguientes eventos marca el inicio de la República en Chile?",
+        "opciones": [
+            "La batalla de Maipú",
+            "La abdicación de Bernardo O'Higgins",
+            "La fundación de Santiago",
+            "La independencia de Argentina"
+        ],
+        "respuestaCorrecta": 1
+    },
+    {
+        "pregunta": "¿Qué líder fue fundamental en el proceso de Independencia de Chile?",
+        "opciones": [
+            "Manuel Bulnes",
+            "Salvador Allende",
+            "Bernardo O'Higgins",
+            "José Miguel Carrera"
+        ],
+        "respuestaCorrecta": 2
+    },
+    {
+        "pregunta": "¿Cuál fue una de las causas principales de la Guerra del Pacífico?",
+        "opciones": [
+            "Disputa por el control de la Patagonia",
+            "Conflictos de límites con Bolivia y Perú",
+            "Difusión de ideologías europeas",
+            "Intervención estadounidense en la región"
+        ],
+        "respuestaCorrecta": 1
+    },
+    {
+        "pregunta": "¿Qué año comenzó el periodo conocido como la 'República Autoritaria' en Chile?",
+        "opciones": [
+            "1823",
+            "1831",
+            "1830",
+            "1835"
+        ],
+        "respuestaCorrecta": 2
+    },
+    {
+        "pregunta": "¿Quién fue el primer presidente de la República de Chile?",
+        "opciones": [
+            "José Miguel Carrera",
+            "Bernardo O'Higgins",
+            "Manuel Blanco Encalada",
+            "Ramón Freire"
+        ],
+        "respuestaCorrecta": 2
+    },
+    {
+        "pregunta": "¿Qué factor impulsó el crecimiento de las ciudades chilenas en el siglo XX?",
+        "opciones": [
+            "La migración campo-ciudad",
+            "El auge de la minería del oro",
+            "El incremento en la producción agrícola",
+            "La reforma educativa de 1925"
+        ],
+        "respuestaCorrecta": 0
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes opciones describe el efecto de la 'Pacificación de la Araucanía'?",
+        "opciones": [
+            "Desarrollo de la industria del salitre",
+            "Integración pacífica de la población mapuche",
+            "Expansión territorial hacia el sur de Chile",
+            "Crecimiento de la población urbana en Valparaíso"
+        ],
+        "respuestaCorrecta": 2
+    },
+    {
+        "pregunta": "¿En qué año tuvo lugar el Plebiscito que definió el fin de la dictadura en Chile?",
+        "opciones": [
+            "1980",
+            "1985",
+            "1988",
+            "1990"
+        ],
+        "respuestaCorrecta": 2
+    },
+    {
+        "pregunta": "¿Cuál fue una de las causas de la crisis económica en Chile en 1929?",
+        "opciones": [
+            "La caída de la demanda del salitre",
+            "El aumento de la inversión extranjera",
+            "El declive de la industria pesquera",
+            "La introducción de nuevas tecnologías"
+        ],
+        "respuestaCorrecta": 0
+    },
+    {
+        "pregunta": "¿Qué tratado puso fin a la Guerra del Pacífico?",
+        "opciones": [
+            "Tratado de Tordesillas",
+            "Tratado de Ancón",
+            "Tratado de Versalles",
+            "Tratado de Utrecht"
+        ],
+        "respuestaCorrecta": 1
+    },
+    {
+        "pregunta": "¿Cuál fue el propósito de la Constitución de 1833?",
+        "opciones": [
+            "Establecer una monarquía parlamentaria",
+            "Consolidar un estado unitario fuerte",
+            "Implementar una democracia directa",
+            "Proteger los derechos de los pueblos indígenas"
+        ],
+        "respuestaCorrecta": 1
+    },
+    {
+        "pregunta": "¿Qué rol cumplió Diego Portales en el Chile del siglo XIX?",
+        "opciones": [
+            "Líder en la Guerra de la Independencia",
+            "Presidente de Chile",
+            "Ministro y organizador del Estado",
+            "Jefe de Estado Mayor del Ejército"
+        ],
+        "respuestaCorrecta": 2
+    },
+    {
+        "pregunta": "¿Cuál fue una de las reformas más importantes del gobierno de Pedro Aguirre Cerda?",
+        "opciones": [
+            "Reforma agraria",
+            "Impulso de la industrialización",
+            "Creación del servicio militar obligatorio",
+            "Implementación de las leyes de defensa social"
+        ],
+        "respuestaCorrecta": 1
+    },
+    {
+        "pregunta": "¿Qué presidente chileno impulsó la nacionalización del cobre en la década de 1970?",
+        "opciones": [
+            "Eduardo Frei Montalva",
+            "Salvador Allende",
+            "Augusto Pinochet",
+            "Patricio Aylwin"
+        ],
+        "respuestaCorrecta": 1
+    },
+    {
+        "pregunta": "¿Qué evento llevó al establecimiento de una dictadura militar en Chile en 1973?",
+        "opciones": [
+            "El Plebiscito de 1980",
+            "La renuncia de Salvador Allende",
+            "El golpe de Estado del 11 de septiembre",
+            "La Guerra Civil de 1891"
+        ],
+        "respuestaCorrecta": 2
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes personajes fue fundamental en la Guerra del Pacífico?",
+        "opciones": [
+            "Manuel Bulnes",
+            "Carlos Ibáñez del Campo",
+            "Arturo Prat",
+            "Ramón Freire"
+        ],
+        "respuestaCorrecta": 2
+    },
+    {
+        "pregunta": "¿Qué gobierno implementó la 'Jornada Escolar Completa' en Chile?",
+        "opciones": [
+            "Patricio Aylwin",
+            "Eduardo Frei Ruiz-Tagle",
+            "Sebastián Piñera",
+            "Michelle Bachelet"
+        ],
+        "respuestaCorrecta": 1
+    },
+    {
+        "pregunta": "¿Cuál fue el principal conflicto territorial entre Chile y Perú en el siglo XIX?",
+        "opciones": [
+            "Disputa por la región de la Araucanía",
+            "Guerra del Pacífico",
+            "Conflicto de la Frontera Norte",
+            "Rebelión de la Patagonia"
+        ],
+        "respuestaCorrecta": 1
+    },
+    {
+        "pregunta": "¿En qué consistió la Ley de Instrucción Primaria Obligatoria de 1920 en Chile?",
+        "opciones": [
+            "Estableció la educación primaria gratuita",
+            "Implementó una reforma laboral",
+            "Redujo la jornada laboral a 8 horas",
+            "Prohibió el trabajo infantil"
+        ],
+        "respuestaCorrecta": 0
+    },
+    {
+        "pregunta": "¿Qué significó la Guerra Civil de 1891 para el sistema político chileno?",
+        "opciones": [
+            "El fin del sistema presidencialista",
+            "La instauración de la monarquía",
+            "El inicio de un periodo de dictadura",
+            "La creación de una asamblea constituyente"
+        ],
+        "respuestaCorrecta": 0
+    },
   {
-    "pregunta": "Actualmente, el fact checking (verificación de datos)...",
-    "opciones": [
-      "Porque permite el acceso de la ciudadanía a la información.",
-      "Porque regula legalmente el estándar ético de la información.",
-      "Porque evita la necesidad de censurar la información difundida.",
-      "Porque valida la información sobre la que debate la ciudadanía."
-    ],
-    "respuestaCorrecta": 3
-  },
-  // Additional questions
+        "pregunta": "¿Cuál fue una de las principales causas de la Revolución Francesa?",
+        "opciones": [
+            "El descontento con la riqueza de la Iglesia Católica.",
+            "La influencia del humanismo en Europa.",
+            "Las guerras entre los reinos cristianos de Europa.",
+            "El deseo de expandir el Imperio Romano."
+        ],
+        "respuestaCorrecta": 0,
+        "dificultad": "media",
+        "tema": "Edad Moderna",
+        "habilidad": "comprensión"
+    },
+    {
+        "pregunta": "¿Quién fue el primer presidente de Estados Unidos?",
+        "opciones": [
+            "George Washington",
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "Benjamin Franklin"
+        ],
+        "respuestaCorrecta": 0,
+        "dificultad": "fácil",
+        "tema": "Edad Moderna",
+        "habilidad": "conocimiento"
+    },
+  
 ]
