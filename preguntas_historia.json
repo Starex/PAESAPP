@@ -1,0 +1,23 @@
+[
+  {
+    "pregunta": "En el sistema político chileno existen diversos actores...",
+    "opciones": [
+      "Organizan los procesos electorales a nivel nacional.",
+      "Financian la implementación de las políticas públicas.",
+      "Interactúan con otros organismos de la sociedad civil.",
+      "Gestionan la educación ciudadana en el sistema escolar."
+    ],
+    "respuestaCorrecta": 2
+  },
+  {
+    "pregunta": "Actualmente, el fact checking (verificación de datos)...",
+    "opciones": [
+      "Porque permite el acceso de la ciudadanía a la información.",
+      "Porque regula legalmente el estándar ético de la información.",
+      "Porque evita la necesidad de censurar la información difundida.",
+      "Porque valida la información sobre la que debate la ciudadanía."
+    ],
+    "respuestaCorrecta": 3
+  },
+  // Additional questions
+]
